@@ -128,9 +128,9 @@ FILE FORMAT
 
 * Input network is in the txt file format, which has the following format: 
 
-* Each line corresponds to an interaction and contains the name of two nodes and the edge weight of the corresponding interaction (separated by a tab).
+ Each line corresponds to an interaction and contains the name of two nodes and the edge weight of the corresponding interaction (separated by a tab).
 
-* Here is an example for "network.txt" :
+ Here is an example for "network.txt" :
 
 	1	2	1
 
@@ -144,9 +144,9 @@ FILE FORMAT
 
 * Output file is in the csv file format, which has the following format: 
 
-* The output file returns top K similar networks against each query network. Each line contains the name of the query network, the name of similar netowrk in the database, label for regression and prediction of the similarity score (separated by a tab).
+ The output file returns top K similar networks against each query network. Each line contains the name of the query network, the name of similar netowrk in the database, label for regression and prediction of the similarity score (separated by a tab).
 
-* Here is an example for the output file "topkNetwork.csv" :
+ Here is an example for the output file "topkNetwork.csv" :
 
 	q_name	db_name	label	pred
 
