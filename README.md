@@ -90,7 +90,7 @@ HOW TO USE
  
 * Example:
 
-	$ cd /nssrf/nssrfBinary/
+	$ cd /nssrfBinary/
 
 	$ ./nssrf 2 m1 10 1 100 101 110 
 
