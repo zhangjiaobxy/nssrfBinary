@@ -1,4 +1,4 @@
-nssrf 1.0 linux version
+nssrf 1.0 executable binay - Linux version
 ------------------------
 
 nssrf 1.0 is implemented in Pyhton.
@@ -130,7 +130,7 @@ FILE FORMAT
 
  Each line corresponds to an interaction and contains the name of two nodes and the edge weight of the corresponding interaction (separated by a tab).
 
- Here is an example for "network.txt" :
+ Here is an example for network "1.txt" :
 
 	1	2	1
 
