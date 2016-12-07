@@ -8,8 +8,7 @@
 # import the modules needed to run the script
 import os,sys
 
-# subgraph size(2,3,4,234)
-subgraphSize = str(sys.argv[1]) 
+subgraphSize = str(sys.argv[1])  # subgraph size(2,3,4,234)
 dbEnd = int(sys.argv[2])  # the end number of the database
 
 # valid subgraph size
