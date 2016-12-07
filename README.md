@@ -91,6 +91,8 @@ HOW TO USE
 * Example:
 
 	$ cd /nssrfBinary/
+	
+	$ chmod +x nssrf
 
 	$ ./nssrf 2 m1 10 1 100 101 110 
 
