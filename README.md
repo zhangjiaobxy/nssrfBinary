@@ -1,7 +1,7 @@
 nssrf 1.0 executable binay - Linux version
 ------------------------
 
-nssrf 1.0 is implemented in Pyhton.
+nssrf 1.0 is implemented in Python.
 
 This tool performs global network similarity search based on random forest regression with subgraph signatures.
 
